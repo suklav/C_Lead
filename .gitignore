@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+#pth files
+*.pth
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints/
+weights/
+runs/
+
+# Data
+data/
+datasets/
+
+# Logs
+logs/
+wandb/
+tensorboard/
+
+# Outputs
+outputs/
+results/
+predictions/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#tar files
+*.tar
+*.gz
+*.pack

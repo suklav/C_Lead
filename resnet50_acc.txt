@@ -1,0 +1,19 @@
+
+Resnet 50 with PGD atttack 
+
+Epoch: 30 / 50
+Tain Loss: 1.3867421732534229
+Train Accuracy: 57.866 %
+Validation Loss: 15.323284704473954
+Validation Accuracy: 9.42 %
+Accuracy after 10 batches: 56.719%
+Accuracy after 20 batches: 58.516%
+Accuracy after 30 batches: 57.891%
+Accuracy after 40 batches: 57.617%
+Accuracy after 50 batches: 57.750%
+Accuracy after 60 batches: 57.799%
+Accuracy after 70 batches: 57.667%
+Final Adversarial Test Accuracy: 57.560%
+
+
+.

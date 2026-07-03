@@ -1,0 +1,176 @@
+
+Resnet 50 with PGD atttack 
+
+
+Accuracy after 10 batches: 56.719%
+Accuracy after 20 batches: 58.516%
+Accuracy after 30 batches: 57.891%
+Accuracy after 40 batches: 57.617%
+Accuracy after 50 batches: 57.750%
+Accuracy after 60 batches: 57.799%
+Accuracy after 70 batches: 57.667%
+Final Adversarial Test Accuracy: 57.560%
+
+
+Accuracy after 10 batches: 68.984%
+Accuracy after 20 batches: 68.789%
+Accuracy after 30 batches: 68.750%
+Accuracy after 40 batches: 68.457%
+Accuracy after 50 batches: 68.344%
+Accuracy after 60 batches: 68.359%
+Accuracy after 70 batches: 68.493%
+Final Adversarial Test Accuracy: 68.670%
+
+
+Resnet 50 with FGSM atttack 
+
+Accuracy after 10 batches: 65.156%
+Accuracy after 20 batches: 65.352%
+Accuracy after 30 batches: 65.391%
+Accuracy after 40 batches: 65.293%
+Accuracy after 50 batches: 65.469%
+Accuracy after 60 batches: 65.508%
+Accuracy after 70 batches: 65.458%
+Final Adversarial Test Accuracy: 65.280%
+
+Accuracy after 10 batches: 55.781%
+Accuracy after 20 batches: 57.891%
+Accuracy after 30 batches: 57.448%
+Accuracy after 40 batches: 56.934%
+Accuracy after 50 batches: 56.453%
+Accuracy after 60 batches: 56.901%
+Accuracy after 70 batches: 56.908%
+Final Adversarial Test Accuracy: 56.860%
+
+
+Resnet 50 with CW attack
+
+
+Accuracy after 10 batches: 59.01%
+Accuracy after 20 batches: 60.75%
+Accuracy after 30 batches: 58.93%
+Accuracy after 40 batches: 58.57%
+Accuracy after 50 batches: 60.12%
+Accuracy after 60 batches: 61.79%
+Accuracy after 70 batches: 59.20%
+Final Adversarial Test Accuracy: 59.85%
+
+Accuracy after 10 batches: 51.84%
+Accuracy after 20 batches: 52.50%
+Accuracy after 30 batches: 52.32%
+Accuracy after 40 batches: 51.96%
+Accuracy after 50 batches: 51.78%
+Accuracy after 60 batches: 52.44%
+Accuracy after 70 batches: 52.10%
+Final Adversarial Test Accuracy: 52.2%
+
+
+
+Resnet 34 with CW attack:
+
+Accuracy after 10 batches: 56.5%
+Accuracy after 20 batches: 58.0%
+Accuracy after 30 batches: 57.2%
+Accuracy after 40 batches: 56.1%
+Accuracy after 50 batches: 57.8%
+Accuracy after 60 batches: 57.9%
+Accuracy after 70 batches: 58.3%
+Final Adversarial Test Accuracy: 58.66%
+
+
+Accuracy after 10 batches: 50.319%
+Accuracy after 20 batches: 52.268%
+Accuracy after 30 batches: 50.651%
+Accuracy after 40 batches: 54.205%
+Accuracy after 50 batches: 52.878%
+Accuracy after 60 batches: 49.725%
+Accuracy after 70 batches: 49.213%
+Final Adversarial Test Accuracy: 51.79%
+
+
+
+Resnet 34 with FGSM atttack 
+
+Accuracy after 10 batches: 64.844%
+Accuracy after 20 batches: 63.711%
+Accuracy after 30 batches: 63.411%
+Accuracy after 40 batches: 63.887%
+Accuracy after 50 batches: 63.406%
+Accuracy after 60 batches: 63.477%
+Accuracy after 70 batches: 63.170%
+Final Adversarial Test Accuracy: 63.230%
+
+Accuracy after 10 batches: 52.500%
+Accuracy after 20 batches: 53.672%
+Accuracy after 30 batches: 54.505%
+Accuracy after 40 batches: 54.102%
+Accuracy after 50 batches: 54.078%
+Accuracy after 60 batches: 53.997%
+Accuracy after 70 batches: 54.118%
+Final Adversarial Test Accuracy: 54.160%
+
+
+
+Resnet 34 with PGD attack
+
+Accuracy after 10 batches: 63.984%
+Accuracy after 20 batches: 61.875%
+Accuracy after 30 batches: 61.771%
+Accuracy after 40 batches: 61.113%
+Accuracy after 50 batches: 60.875%
+Accuracy after 60 batches: 60.846%
+Accuracy after 70 batches: 60.915%
+Final Adversarial Test Accuracy: 61.010%
+
+
+Accuracy after 10 batches: 60.000%
+Accuracy after 20 batches: 59.414%
+Accuracy after 30 batches: 58.802%
+Accuracy after 40 batches: 58.652%
+Accuracy after 50 batches: 58.859%
+Accuracy after 60 batches: 58.633%
+Accuracy after 70 batches: 58.560%
+Final Adversarial Test Accuracy: 58.600%
+
+
+Resnet 18 with FGSM attack : 
+
+Accuracy after 10 batches: 25.781%
+Accuracy after 20 batches: 25.625%
+Accuracy after 30 batches: 24.714%
+Accuracy after 40 batches: 24.844%
+Accuracy after 50 batches: 24.844%
+Accuracy after 60 batches: 24.974%
+Accuracy after 70 batches: 24.643%
+Final Adversarial Test Accuracy: 24.970%
+
+
+Accuracy after 10 batches: 25.938%
+Accuracy after 20 batches: 25.742%
+Accuracy after 30 batches: 25.599%
+Accuracy after 40 batches: 25.723%
+Accuracy after 50 batches: 25.906%
+Accuracy after 60 batches: 25.924%
+Accuracy after 70 batches: 25.536%
+Final Adversarial Test Accuracy: 25.650%
+
+Resnet 18 with PGD attack : 
+
+Accuracy after 10 batches: 27.891%
+Accuracy after 20 batches: 28.008%
+Accuracy after 30 batches: 27.292%
+Accuracy after 40 batches: 27.422%
+Accuracy after 50 batches: 27.656%
+Accuracy after 60 batches: 27.422%
+Accuracy after 70 batches: 27.377%
+Final Adversarial Test Accuracy: 27.610%
+
+Accuracy after 10 batches: 30.21%
+Accuracy after 20 batches: 30.75%
+Accuracy after 30 batches: 31.02%
+Accuracy after 40 batches: 31.32%
+Accuracy after 50 batches: 31.01%
+Accuracy after 60 batches: 31.57%
+Accuracy after 70 batches: 31.81%
+Final Adversarial Test Accuracy: 31.27%
+

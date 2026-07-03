@@ -1,0 +1,50 @@
+Targeted 
+
+Resnet 34 PDG targetted 
+
+Accuracy after 10 batches: 74.297%
+Accuracy after 20 batches: 74.102%
+Accuracy after 30 batches: 73.255%
+Accuracy after 40 batches: 73.262%
+Accuracy after 50 batches: 73.281%
+Accuracy after 60 batches: 73.177%
+Accuracy after 70 batches: 72.924%
+Final Adversarial Test Accuracy: 72.780%
+
+
+
+Resnet 34 FGSM targeted : 
+
+Accuracy after 10 batches: 61.719%
+Accuracy after 20 batches: 62.578%
+Accuracy after 30 batches: 63.880%
+Accuracy after 40 batches: 64.512%
+Accuracy after 50 batches: 64.422%
+Accuracy after 60 batches: 64.466%
+Accuracy after 70 batches: 64.040%
+Final Adversarial Test Accuracy: 64.220%
+
+
+Resnet 50 targetted PGD 8 : 
+
+Accuracy after 10 batches: 71.562%
+Accuracy after 20 batches: 70.898%
+Accuracy after 30 batches: 70.547%
+Accuracy after 40 batches: 70.488%
+Accuracy after 50 batches: 70.453%
+Accuracy after 60 batches: 70.820%
+Accuracy after 70 batches: 70.837%
+Final Adversarial Test Accuracy: 70.940%
+
+
+Resnet 50 Targetted FGSM : 
+
+Accuracy after 10 batches: 69.453%
+Accuracy after 20 batches: 69.766%
+Accuracy after 30 batches: 69.375%
+Accuracy after 40 batches: 69.199%
+Accuracy after 50 batches: 69.203%
+Accuracy after 60 batches: 68.958%
+Accuracy after 70 batches: 69.040%
+Final Adversarial Test Accuracy: 69.250%
+
